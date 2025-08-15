@@ -1,6 +1,7 @@
-<h1 align="center">Hey there, I'm Kurlan</h1>
-<h3 align="center">A software engineering student at McMaster University, Canada</h3>
-<br>
+<h1 align="left">Hey there, I'm Kurlan</h1>
+<h3 align="left">A software engineering student at McMaster University, Canada</h3>
+
+<h1 align="left">About me</h1>
 
 - 🔭 I’m currently working on **a Japanese Learning App (わび・さび)**
 
@@ -8,7 +9,7 @@
 
 - ⚡ Fun fact **I come from the island of Dodo birds**
 
-<br>
+<h1 align="left">Tech Stack</h1>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,11 +39,12 @@
 </p>
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kurlan-beeharry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kurlan-beeharry/" height="30" width="40" /></a>
 </p>
 <br>
+<h1 align="left">Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurlanb&show_icons=true&locale=en&layout=compact" alt="kurlanb" /></p>
 
