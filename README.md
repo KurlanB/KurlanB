@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, I'm Kurlan</h1>
-<h3 align="left">A software engineering student at McMaster University, Canada</h3>
+<p align="left">A software engineering student at McMaster University, Canada</p>
 
 <h1 align="left">About me</h1>
 
@@ -38,7 +38,6 @@
   </a>
 </p>
 
-<br>
 <h1 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kurlan-beeharry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kurlan-beeharry/" height="30" width="40" /></a>
@@ -46,9 +45,9 @@
 <br>
 <h1 align="left">Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurlanb&show_icons=true&locale=en&layout=compact" alt="kurlanb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kurlanb&show_icons=true&locale=en" alt="kurlanb" /></p>&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurlanb&show_icons=true&locale=en" alt="kurlanb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurlanb&show_icons=true&locale=en&layout=compact" alt="kurlanb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurlanb&" alt="kurlanb" /></p>
+
 
