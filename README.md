@@ -40,9 +40,11 @@
 
 <h1 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kurlan-beeharry/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kurlan-beeharry/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/kurlan-beeharry/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kurlan-beeharry/" height="35" width="45" /></a>&nbsp;
+<a href="https://devpost.com/KurlanB" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" alt="https://devpost.com/KurlanB" height="50" width="50"></a>
 </p>
-<br>
+
 <h1 align="left">Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kurlanb&show_icons=true&locale=en" alt="kurlanb" /></p>&nbsp;
