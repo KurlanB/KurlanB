@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FullStack Development (SpringBoot and AWS)**
 
-- ⚡ Fun fact **I come from the island of Dodo birds**
+- 🏝️ Fun fact **I come from the island of Dodo birds**
 
 <h1 align="left">Tech Stack</h1>
 <h3 align="left">Programming Languages:</h3>
@@ -27,14 +27,14 @@
 <h3 align="left">Developer Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,eclipse,git,maven,vim,vscode,visualstudio,anaconda,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,vim,eclipse,visualstudio,anaconda,arduino" />
   </a>
 </p>
 
 <h3 align="left">Platforms & Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,docker,figma,kali,linux,mysql,netlify,ps,postgres,postman,vercel,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,windows,linux,firebase,vercel,netlify,mysql,postgres,postman,kali,figma,ps,blender" />
   </a>
 </p>
 
