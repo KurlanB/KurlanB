@@ -20,21 +20,21 @@
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite,flask,vercel,npm" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite,nextjs,fastapi,flask,vercel,npm" />
   </a>
 </p>
 
 <h3 align="left">Developer Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,vim,eclipse,visualstudio,anaconda,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,maven,vim,eclipse,visualstudio,anaconda,arduino" />
   </a>
 </p>
 
 <h3 align="left">Platforms & Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,windows,linux,firebase,vercel,netlify,mysql,postgres,postman,kali,figma,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,windows,linux,firebase,supabase,vercel,mysql,postgres,postman,kali,figma" />
   </a>
 </p>
 
