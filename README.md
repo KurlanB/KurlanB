@@ -45,11 +45,5 @@
 <a href="https://devpost.com/KurlanB" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" alt="https://devpost.com/KurlanB" height="50" width="50"></a>
 </p>
 
-<h1 align="left">Stats</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kurlanb&show_icons=true&locale=en" alt="kurlanb" /></p>&nbsp;
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurlanb&show_icons=true&locale=en&layout=compact" alt="kurlanb" /></p>
-
 
 
