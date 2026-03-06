@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Japanese Learning App (わび・さび)**
 
-- 🌱 I’m currently learning **FullStack Development (SpringBoot and AWS)**
+- 🌱 I’m currently learning **FullStack Development (SpringBoot and AWS)** and **Cybersecurity**
 
 - 🏝️ Fun fact **I come from the island of Dodo birds**
 
