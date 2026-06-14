@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, I'm Kurlan</h1>
-<p align="left">A software engineering student at McMaster University, Canada</p>
+<p align="left">A Software Engineering student at McMaster University, Canada</p>
 
 <h1 align="left">About me</h1>
 
