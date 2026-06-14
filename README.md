@@ -3,7 +3,7 @@
 
 <h1 align="left">About me</h1>
 
-- 🔭 I’m currently working on **a Japanese Learning App (わび・さび)**
+- 🔭 I’m currently working at Brave Solutions Inc. 
 
 - 🌱 I’m currently learning **FullStack Development (SpringBoot and AWS)** and **Cybersecurity**
 
