@@ -20,7 +20,7 @@
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite,nextjs,fastapi,flask,vercel,npm" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite,nextjs,fastapi,flask,vercel,bun,npm" />
   </a>
 </p>
 
